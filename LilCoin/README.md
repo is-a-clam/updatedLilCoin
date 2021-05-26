@@ -1,4 +1,4 @@
-#Lil'Coin
+# Lil'Coin
 
 LilCoin is a crypto-currency proof of concept that 
 is similar to bitcoin, and tries to emulate the 
